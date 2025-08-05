@@ -1,7 +1,4 @@
-# Balanced-sheet
+## Balanced-sheet
 
-* This is a basic balanced sheet design made in html and css.
-* This helps in understanding the design.
+* You can use CSS pseudo selectors to change specific HTML elements. In this project, you'll build a balance sheet using pseudo selectors. You'll learn how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage.
 * You can learn this on [freeCodeCamp](https://www.freecodecamp.org/) step by step.
-* I made this in the course Responsive Web Design while learning HTML and CSS. You can also get certification upon its completeion.
-* You can view this website in your browser after cloning tis project and opening it with the help of **live server** extension of VS code.
